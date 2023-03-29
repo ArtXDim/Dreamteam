@@ -2,9 +2,9 @@
 
 Артемьев Дмитрий ArtXDim
 
-Николай Щербаков  Frontend-developer
+Николай Щербаков  Frontend-developer kolob 2000
 
-Трифонов Алексей Python kolob 2000
+Трифонов Алексей Python TrifonovAD
 
 Кобзев Алексей Валерьевич KobzevAlexey
 
